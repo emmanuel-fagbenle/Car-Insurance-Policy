@@ -10,13 +10,13 @@ Understanding claim behavior to help with risk assessment and management. This w
 Excel, SQL, Power BI
 
 # Insights
-We have a total of 37541 Policy Holders, and we also identified a 27.54% group of policyholders who have made claims at least once.
-This group comprises 10,340 policyholders, and their combined claims have resulted in a substantial insurance payout totaling $518.24 million
-Age range (Young Adults 21-29, Older Adults: 30-44, Middle aged: 45-60, Elderly: 60+)
-We have more Middle-aged Policy Holders and 40.92% of them are single, 34.14% are married.
-Policy Holders with a Bachelor’s degree have exhibited a higher claim frequency and claim amount
-More claiming Policy Holders own private cars, 80.52% of them.
-The following car make and model are the top 10 with the highest claim frequency: Pontiac Grand Prix, Ford Mustang, Volkswagen GTI, Mercedes-Benz SL-Class, Nissan Altima, Chevrolet Camaro, Ford Thunderbird, Dodge Caravan, Ford Ranger, Ford Taurus
+  We have a total of 37541 Policy Holders, and we also identified a 27.54% group of policyholders who have made claims at least once.
+  This group comprises 10,340 policyholders, and their combined claims have resulted in a substantial insurance payout totaling $518.24     million
+  Age range (Young Adults 21-29, Older Adults: 30-44, Middle aged: 45-60, Elderly: 60+)
+  We have more Middle-aged Policy Holders and 40.92% of them are single, 34.14% are married.
+  Policy Holders with a Bachelor’s degree have exhibited a higher claim frequency and claim amount
+  More claiming Policy Holders own private cars, 80.52% of them.
+  The following car make and model are the top 10 with the highest claim frequency: Pontiac Grand Prix, Ford Mustang, Volkswagen GTI,     Mercedes-Benz SL-Class, Nissan Altima, Chevrolet Camaro, Ford Thunderbird, Dodge Caravan, Ford Ranger, Ford Taurus
 
 # Recommendations:
 Provide risk management advice and resources to high-risk policyholders. This could involve promoting safe driving practices, vehicle maintenance, and security measures.
