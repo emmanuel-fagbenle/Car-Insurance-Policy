@@ -21,11 +21,11 @@ Excel, SQL, Power BI
 # Recommendations:
 * Provide risk management advice and resources to high-risk policyholders. This could involve promoting safe driving practices, vehicle maintenance, and security measures.
 * Monitor high-risk policyholders' claim behavior closely. Efficient claims management for these customers can help control costs and streamline processes.
-Develop insurance plans and coverage options tailored to the distinct needs of different age groups: Young Adults, Older Adults, Middle-aged, and Elderly. This can optimize policyholder satisfaction and coverage suitability.
-Communicate transparently with high-risk policyholders about their risk profile and the implications for their coverage and premiums.
-Provide educational resources specifically to policyholders with Bachelor's degrees. This can enhance their understanding of insurance, leading to more informed decisions and potentially lower claim frequency over time.
-Use data insights to inform underwriting decisions for new policies and to optimize coverage offerings
-Offer premium discounts to policyholders who have maintained a history of no or very few claims over an extended period.
-Prioritize risk assessment and proactive measures for the top 10 car makes and models with the highest claim frequencies. This can include targeted safety information, maintenance recommendations, or driving behavior insights.
+* Develop insurance plans and coverage options tailored to the distinct needs of different age groups: Young Adults, Older Adults, Middle-aged, and Elderly. This can optimize policyholder satisfaction and coverage suitability.
+* Communicate transparently with high-risk policyholders about their risk profile and the implications for their coverage and premiums.
+* Provide educational resources specifically to policyholders with Bachelor's degrees. This can enhance their understanding of insurance, leading to more informed decisions and potentially lower claim frequency over time.
+* Use data insights to inform underwriting decisions for new policies and to optimize coverage offerings
+* Offer premium discounts to policyholders who have maintained a history of no or very few claims over an extended period.
+* Prioritize risk assessment and proactive measures for the top 10 car makes and models with the highest claim frequencies. This can include targeted safety information, maintenance recommendations, or driving behavior insights.
 
-# For a more comprehensive understanding of the report, and to view the full report article, all steps taken and images,
+## For a more comprehensive understanding of the report, and to view the full report article, all steps taken and images,
