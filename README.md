@@ -31,6 +31,6 @@ Excel, SQL, Power BI
 ## For a more comprehensive understanding of the report, and to view the full report article, all steps taken and images,
 Interactive Dashboard on Power BI
 
-Project Repository on GitHub
+Please click this Medium link
 
 Thank you for reading.
