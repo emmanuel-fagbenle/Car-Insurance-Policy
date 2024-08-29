@@ -29,8 +29,8 @@ Excel, SQL, Power BI
 * Prioritize risk assessment and proactive measures for the top 10 car makes and models with the highest claim frequencies. This can include targeted safety information, maintenance recommendations, or driving behavior insights.
 
 ## For a more comprehensive understanding of the report, and to view the full report article, all steps taken and images,
-[Interactive Dashboard](Power BI)
+Interactive Dashboard [Power BI](https://www.novypro.com/create_project/car-insurance-analysis--1)
 
-[Please click this](Medium link)
+Please click this [Medium link](https://medium.com/@fagbenlee/car-insurance-policy-dd39ecc94b9e)
 
 Thank you for reading.
